@@ -5,8 +5,7 @@ by)김선민(조장/피그마 디자인 시안/프론트엔드), 권동환(팀�
 ### 기존 길마로 홈페이지를 참고하여 프로젝트를 진행 하였음
 #### 프로젝트 기간 : 2023.01.09~2023.01.18
 #### 기본 업체 홈페이지 : www.gilmaro.co.kr/
-#### 피그마 시안 : https://www.figma.com/file/cO0KZkw8EqCr8mfsko14dx/GILMARO-%EB%B8%8C%EB%9E%9C%EB%93%9C%EC%83%B5-%EC%A0%9C%EC%9E%91-%EC%BD%98%EC%85%89%ED%8A%B8?node-id=140%3A298&t=Ycu9sTc6UErOXXao-1
-#### 배포 : https://port-0-node-ejs-gilmaro-19k5ygi525lcsucitd.gksl2.cloudtype.app/
+#### 배포 : https://port-0-gilmaro-422t024lbonwoan.gksl2.cloudtype.app/index
 #### 서버운영 : https://cloudtype.io
 ##### 📌개발환경 : 운영체제 윈도우10 chrome✅
 ##### 📌사용 코드에디터 : vs code
